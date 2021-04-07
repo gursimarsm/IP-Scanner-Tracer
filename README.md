@@ -6,8 +6,8 @@ An Internet Protocol address is a numerical label assigned to each device connec
 <br>
 
 ## IP Scanner
-Scan the IP addresses using the ipscan.sh shell script. It will scan all the ctive IP addresses in a network.
-Syntax ./ipscan.sh 192.168.99
+Scan the IP addresses using the ipscan.sh shell script. It will scan all the active IP addresses in a network.
+Syntax: $ ./ipscan.sh 192.168.99
 <br>
 
 ## IP Tracer
