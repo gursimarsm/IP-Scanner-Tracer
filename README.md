@@ -1,11 +1,13 @@
 # IP Scanner and Tracer
+<br>
 
+## What is an IP Address?
+An Internet Protocol address is a numerical label assigned to each device connected to a computer network that uses the Internet Protocol for communication.
 <br>
 
 ## IP Scanner
 Scan the IP addresses using the ipscan.sh shell script. It will scan all the ctive IP addresses in a network.
 Syntax ./ipscan.sh 192.168.99
-
 <br>
 
 ## IP Tracer
